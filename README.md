@@ -1,30 +1,46 @@
-<h1 align="center">Hi 👋, I'm Hanchan-Kim</h1>
-<h3 align="center">I'm Kim Han-chan, a developer who knows trust and humanity.</h3>
+# 👋 안녕하세요! I'm kim-hanchan!
 
-# My Project
+![움짤](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXV2eGRmajZiY2Z1aHcwcjhqYWhuOHY0bnVmc25nc3FubXRwaTgzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif)
 
-## 탁구공 식별 로봇 팔
+[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
 
-https://img.youtube.com/vi/zZVDYvU_PKg/maxresdefault.jpg
+저는 성남고등학교 김한찬입니다. 주로 아두이노와 파이썬을 사용하여 작업합니다. 새로운 기술을 배우고, 문제를 해결하는 것을 좋아합니다. 아래는 제가 진행한 프로젝트와 계획 중인 프로젝트들입니다.
 
-[![Watch the video](https://img.youtube.com/vi/zZVDYvU_PKg/maxresdefault.jpg)](https://www.youtube.com/watch?v=zZVDYvU_PKg)
-##### 이미지를 클릭하여 작동 영상을 확인 해 보세요!
+## 🔭 진행한 프로젝트
+
+### [탁구공 식별 로봇팔](https://github.com/yourusername/project1)
+- **설명:** 탁구공의 색을 인지하고 판단하여 탁구공을 분류하는 로봇팔입니다!
+- **주요 기능:** 
+  - 탁구공의 색을 인지하고 아두이노에게 시리얼 신호를 전달합니다.
+  - 신호에 따라 사전에 지정된 함수로써 공을 잡고 분류합니다.
+- **기술 스택:** 아두이노, 파이썬
+
+### [프로젝트 2 이름](https://github.com/yourusername/project2)
+- **설명:** 프로젝트 2에 대한 간단한 설명을 작성하세요.
+- **주요 기능:** 
+  - 주요 기능 1
+  - 주요 기능 2
+- **기술 스택:** Python, Flask
+
+## 🌱 계획 중인 프로젝트
+
+### [Planned Project 1 Name](https://github.com/yourusername/plannedproject1)
+- **설명:** 계획 중인 프로젝트 1에 대한 간단한 설명을 작성하세요.
+- **예상 기능:** 
+  - 예상 기능 1
+  - 예상 기능 2
+- **예상 기술 스택:** Vue.js, Django
+
+### [Planned Project 2 Name](https://github.com/yourusername/plannedproject2)
+- **설명:** 계획 중인 프로젝트 2에 대한 간단한 설명을 작성하세요.
+- **예상 기능:** 
+  - 예상 기능 1
+  - 예상 기능 2
+- **예상 기술 스택:** Angular, Express
+
+## 📫 연락하기
+
+문의사항이 있으시거나 협업에 관심이 있다면 언제든지 저에게 연락해주세요!
 
 
-
-Welcome to my project. Here is a short demo in GIF format:
-
-![Demo](assets/demo.gif)
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/praise_sun0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="praise_sun0" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kimhanchan00&show_icons=true&locale=en" alt="kimhanchan00" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kimhanchan00&" alt="kimhanchan00" /></p>
