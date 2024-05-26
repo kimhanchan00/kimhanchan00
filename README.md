@@ -28,21 +28,23 @@
 
 ## 🌱 계획 중인 프로젝트
 
-### [Planned Project 1 Name](https://github.com/yourusername/plannedproject1)
-- **설명:** 계획 중인 프로젝트 1에 대한 간단한 설명을 작성하세요.
+### [스마트팜 운영](https://github.com/yourusername/plannedproject1)
+- **설명:** 도시에서 손 쉽게 기르는 태양에너지 스마트팜입니다.
 - **예상 기능:** 
-  - 예상 기능 1
-  - 예상 기능 2
-- **예상 기술 스택:** Vue.js, Django
+  - 사용자가 직접 커스텀 할 수 있는 농작 환경 구축
+  - 영양제와 물의 자동 배합 밑 순환 시스템 구축
+  - 태양 에너지와의 연계 시스템 구축
+- **예상 기술 스택:** 아두이노
 
-### [Planned Project 2 Name](https://github.com/yourusername/plannedproject2)
+### [호버크래프트-소프트웨어](https://github.com/yourusername/plannedproject2)
 - **설명:** 계획 중인 프로젝트 2에 대한 간단한 설명을 작성하세요.
 - **예상 기능:** 
-  - 예상 기능 1
-  - 예상 기능 2
+  - 사람과 비상 표지판을 인지하고 정지합니다.
+  - 수동 조종과 자동 운전 시스템을 혼합합니다.
 - **예상 기술 스택:** Angular, Express
 
 ## 📫 연락하기
 
 문의사항이 있으시거나 협업에 관심이 있다면 언제든지 저에게 연락해주세요!
+kimhanchan00@gmail.com 010-2126-1792
 
