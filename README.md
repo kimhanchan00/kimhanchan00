@@ -1,6 +1,21 @@
 <h1 align="center">Hi 👋, I'm Hanchan-Kim</h1>
 <h3 align="center">I'm Kim Han-chan, a developer who knows trust and humanity.</h3>
 
+# My Project
+
+## 탁구공 식별 로봇 팔
+
+https://img.youtube.com/vi/zZVDYvU_PKg/maxresdefault.jpg
+
+[![Watch the video](https://img.youtube.com/vi/zZVDYvU_PKg/maxresdefault.jpg)](https://www.youtube.com/watch?v=zZVDYvU_PKg)
+
+
+
+Welcome to my project. Here is a short demo in GIF format:
+
+![Demo](assets/demo.gif)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/praise_sun0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="praise_sun0" height="30" width="40" /></a>
