@@ -8,6 +8,7 @@
 https://img.youtube.com/vi/zZVDYvU_PKg/maxresdefault.jpg
 
 [![Watch the video](https://img.youtube.com/vi/zZVDYvU_PKg/maxresdefault.jpg)](https://www.youtube.com/watch?v=zZVDYvU_PKg)
+##### 이미지를 클릭하여 작동 영상을 확인 해 보세요!
 
 
 
