@@ -10,6 +10,9 @@
 ## 🔭 진행한 프로젝트
 
 ### [탁구공 식별 로봇팔](https://github.com/yourusername/project1)
+- **유튜브 동영상:**
+  
+ [![탁구공 식별 로봇팔 시연](https://img.youtube.com/vi/zZVDYvU_PKg/0.jpg)](https://www.youtube.com/watch?v=zZVDYvU_PKg)
 - **설명:** 탁구공의 색을 인지하고 판단하여 탁구공을 분류하는 로봇팔입니다!
 - **주요 기능:** 
   - 탁구공의 색을 인지하고 아두이노에게 시리얼 신호를 전달합니다.
@@ -42,6 +45,4 @@
 ## 📫 연락하기
 
 문의사항이 있으시거나 협업에 관심이 있다면 언제든지 저에게 연락해주세요!
-
-
 
