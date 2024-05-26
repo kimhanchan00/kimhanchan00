@@ -2,7 +2,7 @@
 
 ![움짤](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXV2eGRmajZiY2Z1aHcwcjhqYWhuOHY0bnVmc25nc3FubXRwaTgzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif)
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
+[![GitHub followers](https://img.shields.io/github/followers/kimhanchan00?label=Follow&style=social)](https://github.com/kimhanchan00)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
 
 저는 성남고등학교 김한찬입니다. 주로 아두이노와 파이썬을 사용하여 작업합니다. 새로운 기술을 배우고, 문제를 해결하는 것을 좋아합니다. 아래는 제가 진행한 프로젝트와 계획 중인 프로젝트들입니다.
