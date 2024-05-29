@@ -9,7 +9,7 @@
 
 ## 🔭 진행한 프로젝트
 
-### [탁구공 식별 로봇팔](https://github.com/yourusername/project1)
+### [탁구공 식별 로봇팔](https://github.com/kimhanchan00/Table-Tennis-Ball-Identification-Rob)
 - **유튜브 동영상:**
   
  [![탁구공 식별 로봇팔 시연](https://img.youtube.com/vi/zZVDYvU_PKg/0.jpg)](https://www.youtube.com/watch?v=zZVDYvU_PKg)
