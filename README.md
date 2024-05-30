@@ -44,10 +44,11 @@
   - 사용자가 입력하 그림 그려주기
 - **예상 기술 스택:**
 
-### [필기체 프린트기(영)](https://github.com/yourusername/plannedproject2)
-- **설명:** 로봇팔을 활용하여 필기체 손글씨 프린트기를 구현합니다.
+### [영단어 디스코드 봇(영)](https://github.com/yourusername/plannedproject2)
+- **설명:** 성남고 공식 단어장 워드마스터를 테스트 해주는 디스코드 봇입니다.
 - **예상 기능:** 
-  - 사용자가 입력한 글자를 필기체로 변환하여 프린트해줍니다.
+  - 한글 뜻 테스트, 영어 뜻 테스트
+  - 동의어, 반대어 테스트
 - **예상 기술 스택:**
 
 ### [피아노 연주 로봇(음악)](https://github.com/yourusername/plannedproject2)
